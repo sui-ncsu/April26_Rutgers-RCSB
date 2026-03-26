@@ -10,3 +10,4 @@ For materials from the April 2026 CodeBMB Webinar for Beginners
 003-Working with Pandas and Numpy --> Chris
 
 004-Fitting with non-linear regression --> Wally
+
